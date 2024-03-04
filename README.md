@@ -303,14 +303,16 @@ else:
 
 #### Policy-2 :
 
-![alt text](image.png)
+![image](https://github.com/Nagul71/rl-policy-evaluation/assets/118661118/9c4ad41f-8b15-415a-a650-457198cb6dd5)
+
 
 #### Policy-2 State-value function :
 
-![alt text](image-2.png)
-#### Policy-2 evaluation :
+![image](https://github.com/Nagul71/rl-policy-evaluation/assets/118661118/f6a4794a-8158-4cf7-bed4-6b3e10c46938)
 
-![alt text](image-1.png)
+#### Policy-2 evaluation :
+![image](https://github.com/Nagul71/rl-policy-evaluation/assets/118661118/3321e004-0a30-474b-9c63-885753933436)
+
 
 #### Comparison between 1st and 2nd policy : 
 
